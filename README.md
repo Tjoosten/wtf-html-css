@@ -1,29 +1,28 @@
-# WTF, HTML and CSS?
+# WTF, HTML & CSS?
 
-**WTF, HTML and CSS?** is a list of reasons HTML and CSS might make you say what the fuck. It's a curated list of commonly frustrating HTML and CSS quandaries, miscues, and dilemmas, created with the goal of making them *less* common.
+**WTF, HTML en CSS** is een lijst vol met redenen dat je een what the fuck gezegd doen trekken. Het is een accurate lijst van algemeen frustrerende HTML en CSS dilemma's,  gemaakt met het doel om hen *minder* gemeen te doen lijken.
 
-**[Start reading ☞](http://wtfhtmlcss.com)**
+**[Start met lezen ☞](http://wtfhtmlcss.com)**
+
+### Bijdragen
+
+Open een issue of een pull request om uitbreidingen of veranderingen te bespreken.
 
 ---
 
-### Contribute
-
-Open an issue or a pull request to suggest changes or additions.
-
-
-### License
+### Licentie
 
 [MIT licensed.](LICENSE.md) Copyright 2014 @mdo.
 
 ### Translations
 
-Translations are maintained by their creators and may not always be up to date with the original here.
+Vertalingen worden onderhouden door de vertalers en kunnen niet altijd up to date te zijn met de orginele bron code.
 
-- [Italian](http://aauri.github.io/wtf-html-css/) - Translated by [aauri](https://github.com/aauri)
-- [Korean](http://snack-x.github.io/wtf-html-css/) - Translated by [Snack](https://github.com/Snack-X)
-- [Portuguese](http://webfatorial.github.io/wtf-html-css/) - Translated by [webfatorial](http://webfatorial.com/)
-- [Spanish](http://aauri.github.io/wtf-html-y-css/) - Translated by [aauri](https://github.com/aauri)
+- [Italian](http://aauri.github.io/wtf-html-css/) - Vertaald door [aauri](https://github.com/aauri)
+- [Korean](http://snack-x.github.io/wtf-html-css/) - Vertaald door [Snack](https://github.com/Snack-X)
+- [Portuguese](http://webfatorial.github.io/wtf-html-css/) - Vertaald door [webfatorial](http://webfatorial.com/)
+- [Spanish](http://aauri.github.io/wtf-html-y-css/) - Vertaald door [aauri](https://github.com/aauri)
 
-Have a translation you'd like to link to? Open a pull request to add it here. Be sure to keep it alphabetical.
+Hebt u een vertaling en wilt u deze graag in de lijst zien? Open dan een pull request om deze bij te voegen. Maar hou het alfabetisch.
 
 <3

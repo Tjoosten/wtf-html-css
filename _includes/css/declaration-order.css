@@ -1,5 +1,5 @@
 .declaration-order {
-  /* Positioning */
+  /* Positionering */
   position: absolute;
   top: 0;
   right: 0;
@@ -13,13 +13,13 @@
   width: 100px;
   height: 100px;
 
-  /* Typography */
+  /* Typografie */
   font: normal 13px "Helvetica Neue", sans-serif;
   line-height: 1.5;
   color: #333;
   text-align: center;
 
-  /* Visual */
+  /* Visueel */
   background-color: #f5f5f5;
   border: 1px solid #e5e5e5;
   border-radius: 3px;
